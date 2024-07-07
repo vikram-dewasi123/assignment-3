@@ -1,0 +1,23 @@
+✨[Question 1] What are the new tags added in HTML5?
+
+🎯[Answer] :- <audio>- define an audio file.
+              <aside > - Represents a piece of content that is only slightly related to the rest of the page.
+              <canvas> - This is used for rendering dynamic bitmap graphics on the fly, such as graphs or games.
+              <nav> - Represents a section of the document intended for navigation.
+              <section> - Represents a generic document or application section
+              <time> - Represents a date and/or time.
+              <video> - Defines a video file.
+              
+✨[Question 3] Semantic element in HTML5?
+ 🎯[Answer] :- <article>
+             <aside>
+             <details>
+             <figure>
+             <footer>
+             <header>
+             <main>
+             <mark>
+             <nav>
+             <section>
+
+
